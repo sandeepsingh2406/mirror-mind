@@ -1,0 +1,21 @@
+{
+    "full_name": "Sandeep Singh",
+    "name": "sandy",
+    "current_role": "Data Scientist",
+    "location": "Houston, Texas",
+    "email": "sandy91@gmail.com",
+    "linkedin": "www.linkedin.com/in/sandeepsingh91",
+    "specialties": [
+      "Data Science",
+      "AI",
+      "Software Engineer"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "MS in Computer Science",
+        "institution": "University of Illinois at Chiacgo",
+        "year": "2017"
+      }
+    ]
+  }
