@@ -120,3 +120,7 @@ To tear everything down:
 ```
 
 PowerShell equivalents (`deploy.ps1`, `destroy.ps1`) are also provided. GitHub Actions workflows under `.github/workflows/` run the same deploy/destroy steps in CI.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
